@@ -1,0 +1,32 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon Database",
+  "main": "BamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anum-shabbir/bamazon.git"
+  },
+  "keywords": [
+    "Bamazon",
+    "Node",
+    "SQL",
+    "JavaScript",
+    "jQuery"
+  ],
+  "author": "Anum Shabbir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anum-shabbir/bamazon/issues"
+  },
+  "homepage": "https://github.com/anum-shabbir/bamazon#readme",
+  "dependencies": {
+    "cli-table2": "^0.2.0",
+    "inquirer": "^6.1.0",
+    "mysql": "^2.16.0",
+    "sql": "^0.78.0"
+  }
+}
