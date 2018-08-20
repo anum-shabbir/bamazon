@@ -150,9 +150,6 @@ var completePurchase = function(availableStock, Price, productDepartment, select
 		displayProducts();
 
 
-		// Updates department revenue based on purchase.
-		//updateDepartmentRevenue(updatedProductSales, productDepartment);
-		// Displays products so user can make a new selection.
 	});
 };
 
