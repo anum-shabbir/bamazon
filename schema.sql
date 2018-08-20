@@ -37,3 +37,4 @@ INSERT INTO products (ProductName,DepartmentName,Price,StockQuantity)
 VALUES ("Grey Sweater", "Clothes", 50.99, 1);
 
 select * FROM products;
+
